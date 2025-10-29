@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
+I'm Rojean, exploring Microsoft 365 development and automation.
 
-<!--
-**uc-rojean/uc-rojean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Skills & Tools
+- Microsoft 365 | Power Automate | Power Apps
+- Graph API | SharePoint | Teams
 
-Here are some ideas to get you started:
+## 📌 Projects
+- Power Automate Templates
+- Graph API Scripts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Microsoft Graph
+- Power Platform integrations
+
+## 📫 Connect with me
+LinkedIn | GitHub
