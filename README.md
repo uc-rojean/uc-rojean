@@ -14,4 +14,4 @@ I'm Rojean, exploring Microsoft 365 development and automation.
 - Power Platform integrations
 
 ## 📫 Connect with me
-LinkedIn | GitHub
+GitHub
