@@ -14,4 +14,10 @@ I'm Rojean, exploring Microsoft 365 development and automation.
 - Power Platform integrations
 
 ## 📫 Connect with me
-GitHub
+LinkedIn | GitHub
+
+
+## 🏆 GitHub Highlights
+!Profile Views
+!GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api
