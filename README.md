@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there! 👋
 I'm Rojean, exploring Microsoft 365 development and automation.
 
 ## 🔧 Skills & Tools
